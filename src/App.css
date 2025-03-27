@@ -23,6 +23,13 @@
   font-size: calc(10px + 2vmin);
   color: white;
 }
+body {
+  background: linear-gradient(to bottom, #9e2a56, #65285b);
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
 
 .App-link {
   color: #61dafb;
